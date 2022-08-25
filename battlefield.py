@@ -1,7 +1,9 @@
 from robot import Robot
 from dinosaur import Dinosaur
 
-def __init__(self):
+class Battlefield:
+    def __init__(self):
+        pass
 
 
     def run_games(self):
