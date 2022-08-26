@@ -5,5 +5,5 @@ class Robot:
         self.health = 1000
         self.active_weapon = Weapon("Giant Fist", 50)  
 
-    def attack(self, dinosaur):
+    def attack(self, Dinosaur):
         pass    #attack (self, dinosaur): void 
